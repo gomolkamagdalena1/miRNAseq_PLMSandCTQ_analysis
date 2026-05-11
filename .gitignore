@@ -1,0 +1,29 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.RData
+*.rds
+*.Rproj.user
+
+# Input data and sensitive metadata
+input/
+data/
+raw_data/
+metadata/
+clinical_data/
+
+# Sequencing files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.sam
+
+# Large or private spreadsheets
+*.xlsx
+*.xls
+
+# System files
+.DS_Store
+Thumbs.db
