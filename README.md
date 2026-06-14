@@ -4,7 +4,7 @@ This repository contains R code used for secondary analysis of human small RNA s
 
 ## Data availability
 
-Raw sequencing files and processed count data are deposited in ArrayExpress/BioStudies under accession number: [to be assigned].
+Raw sequencing files and processed count data are deposited in ArrayExpress/BioStudies under accession number: E-MTAB-17125 https://doi.org/10.6019/E-MTAB-17125.
 
 Sensitive participant-level metadata are not included in this repository.
 
